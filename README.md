@@ -7,7 +7,7 @@
 - JWTModule
 - TypeORM
 - decorators
-- DB with Postgrees
+- DB with Postgrees (*here with need a postgre DB*: [image-docker-compose-postgree](https://github.com/raidel90/docker-compose-postgres) )
 
 
 ### Frontend
@@ -15,11 +15,12 @@
 
 You can **SingUp** to create a new User
 ### install
-`npm i @nestjs/common`
-`yarn start:dev`
+- `npm i @nestjs/common`
+- `yarn start:dev`
 
 ### run
 
-maybe you need `tsc`
-`yarn start`
+maybe you need 
+- `tsc`
+- `yarn start`
 
