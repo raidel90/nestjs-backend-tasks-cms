@@ -13,9 +13,10 @@
 ### Frontend
 - [tasks-cms-frontend](https://github.com/raidel90/tasks-cms-frontend).
 
+You can **SingUp** to create a new User
 ### install
 `npm i @nestjs/common`
-`yarn install`
+`yarn start:dev`
 
 ### run
 
