@@ -1,7 +1,24 @@
-<p align="center">
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="150px" height="150px"/>
-</p>
+## NestJS Zero to Hero - Task Management
 
-## NestJS Zero to Hero - Task Management Application
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="50px" height="50px"/>
 
-This application is provided as-is, as a part of the [NestJS Zero to Hero course by Ariel Weinberger (Udemy)](https://codingly.cc/32wqFL3).
+- NestJS
+- Ts
+- JWTModule
+- TypeORM
+- decorators
+- DB with Postgrees
+
+
+### Frontend
+- [tasks-cms-frontend](https://github.com/raidel90/tasks-cms-frontend).
+
+### install
+`npm i @nestjs/common`
+`yarn install`
+
+### run
+
+maybe you need `tsc`
+`yarn start`
+
